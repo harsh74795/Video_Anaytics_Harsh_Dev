@@ -1,0 +1,5 @@
+.drag_input{
+    width:100%;
+    height:2vw;
+    z-index:-1;
+}
